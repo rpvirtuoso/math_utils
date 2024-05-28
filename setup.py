@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="math_utils",
+    name="math-utils",
     version="0.1.0",
     author="Rahul P",
     author_email="rpvirtuoso@gmail.com",
